@@ -1,0 +1,44 @@
+.div_registry {  /* USED IN "REGISTRY.JSX */
+    width: 200px;
+    height: 300px;
+    background-color: #FFF;
+    
+    
+  
+    
+}
+
+  .invalid {
+      border: 1px solid #d11709;
+  }
+
+  .div_list__registry {
+    width: 250px;
+    height: 250px;
+   
+  }
+  
+  .iconesH{
+    width: 150px;
+    height: 150px;
+   margin: 40px 22px 0 22px;
+  
+  
+}
+
+  .btn1 {
+    background-color:#0D9DFF ;
+    border-radius: 15px;
+    padding: 5px 10px;
+    border-color: #0D9DFF ;
+    color: #FFF;
+  }
+
+  .btn1 a:hover{
+    background-color:#d3d3d3 ;
+    border: none;
+  }
+
+  .text-center{
+ padding:  30px;
+  }

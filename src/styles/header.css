@@ -1,0 +1,19 @@
+.header{
+  background-color: #000;
+  margin: 0;
+  
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.button{
+  background-color: #000;
+  color: #0D5FE7;
+  border: none;
+  text-decoration: none;
+}

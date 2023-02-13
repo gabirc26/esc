@@ -1,0 +1,19 @@
+.teacher__selected {
+   margin: 0 25%;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    
+}
+input[type=number] { 
+   -moz-appearance: textfield;
+   appearance: textfield;
+
+}
+
+.list_students {
+    overflow: auto;
+    height: 200px;
+    min-width: 300px
+}

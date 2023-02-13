@@ -1,0 +1,8 @@
+.__input {
+  min-width: 410px;
+}
+
+.students_list {
+  overflow: auto;
+  height: 200px;
+}
